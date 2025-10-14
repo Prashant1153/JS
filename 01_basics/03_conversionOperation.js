@@ -18,19 +18,19 @@
 
 
 
-let isLoggedIn = ""
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// let isLoggedIn = ""
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn);
 
 // 1=> true; 0>= false 
 // "" => false 
 // "prashant" =>true
 // 33 => true
 
-let someNumber = 45
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let someNumber = 45
+// let stringNumber = String(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 
 
