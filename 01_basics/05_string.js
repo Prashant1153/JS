@@ -51,4 +51,4 @@ console.log(str10.big());// ye ek html tag h jo ki big ke nadar dal deta h
 console.log(str10.repeat(1));// repeat kar deta h jitne baar isko bologe 
 
 console.log(str10.match(/-/));// This finds only the first occurrence of the dash (-) in the string str10.
-console.log(str10.match(/-/g));// : The g flag stands for global search. This statement finds all occurrences of the dash in the string str10. match o
+console.log(str10.match(/-/g));// : The g flag stands for global search. This statement finds all occurrences of the dash in the string str10. match off rah gya h 
