@@ -18,3 +18,9 @@ let mytimestamp =  Date.now()
 // console.log(mytimestamp);
 // console.log(date.getTime());
 // console.log(Math.floor(Date.now()/1000));
+
+
+let newDate = new Date()
+console.log(newDate.getMonth()+1);
+
+newDate.toLocaleString('default')
