@@ -23,4 +23,6 @@ let mytimestamp =  Date.now()
 let newDate = new Date()
 console.log(newDate.getMonth()+1);
 
-newDate.toLocaleString('default')
+newDate.toLocaleString('default',{
+    weekday:"long"
+}) // ye object ke andar h 
