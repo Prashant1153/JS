@@ -32,7 +32,7 @@ const message = "hey"+user+"you have "+points+"points!"
 console.log(message);
 
 
-// understaing javascript object ++++++++
+// +++++++understaing javascript object ++++++++
 const person = {
     firstname: "Prashant",
     lastname:"Pandey",
